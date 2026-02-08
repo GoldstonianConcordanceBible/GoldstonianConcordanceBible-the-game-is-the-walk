@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "The Game is the Walk: Practice Like a Pro in God’s Word (Repo)"
+message: "If you use this repository, please cite it."
+type: software
+authors:
+  - family-names: Goldston
+    given-names: Justin
+version: 1.0.0
+date-released: 2026-02-08
+repository-code: "https://github.com/GoldstonianConcordanceBible/the-game-is-the-walk"
+license: MIT
